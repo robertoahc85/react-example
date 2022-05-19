@@ -1,8 +1,9 @@
+import { RiFireFill } from "react-icons/ri";
 
 function App() {
   return (
     <div className="App">
-  <h1>Your Appointment</h1>
+  <h1><RiFireFill />Your Appointment</h1>
     </div>
   );
 }
